@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   title: "PM Coaching App",
   description:
     "Track your professional development and get personalized coaching",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
